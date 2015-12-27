@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "57823C21C8EA985E38601F449F91E9833EEB67B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C9463F7A836D11A2786DBDACD643873C68A1E4C" : 0,
+    "57823C21C8EA985E38601F449F91E9833EEB67B9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB98DAA8-3ED6-4126-8734-4CF24BCF141E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C9463F7A836D11A2786DBDACD643873C68A1E4C" : "..",
+    "57823C21C8EA985E38601F449F91E9833EEB67B9" : "MulColumTextDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MulColumTextDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MulColumTextDemo\/MulColumTextDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lijia6745\/DrawItalicizeFont.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C9463F7A836D11A2786DBDACD643873C68A1E4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lijia6745\/MulColumTextDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57823C21C8EA985E38601F449F91E9833EEB67B9"
+    }
+  ]
+}
