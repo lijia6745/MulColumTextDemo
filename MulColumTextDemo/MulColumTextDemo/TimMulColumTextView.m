@@ -41,7 +41,7 @@ static  NSString* showText = @"冯小刚导演出演男一号的电影《老炮�
         CGMutablePathRef path = CGPathCreateMutable();
         CGPathAddRect(path, NULL, rects[columIndex]);
         [paths addObject:(__bridge id)path];
-        //CFRelease(path);
+        CFRelease(path);
     }
     
     return (NSArray*)paths;
